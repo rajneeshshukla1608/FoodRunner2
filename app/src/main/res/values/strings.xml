@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Food Runner2</string>
+    <string name="home">Home</string>
+    <string name="my_profile">My Profile</string>
+    <string name="favourite_restaurant">Favourite Restaurant</string>
+    <string name="faqs">FAQs</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="log_out">Log Out</string>
+    <string name="higher_order_functionality">Higher Order Functionality</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Question1">Q.1 How will the training be delivered?</string>
+    <string name="Answer1">
+        <br>
+            A.1 You will taught using pre-recorded videos and
+        </br>
+        <br>
+            text tutorials.The training has quizzes, assignments,
+        </br>
+        <br>
+            and tests to help you learn better.At the end of the
+        </br>
+        <br>
+            practise of what you learn during your training.
+        </br>
+
+    </string>
+    <string name="Question2">
+       Q.2 What will be the training of thr training?
+         </string>
+    <string name="Answer2">
+        <br>
+            A.2 As this is a purely online training program, you
+        </br>
+        <br>
+            can choose to learn at any time of the day.We will
+        </br>
+        <br>
+            recommended a pace to be followed throughout the
+        </br>
+        <br>
+            program, but the actual timing and learning hours can
+        </br>
+        <br>
+            be decided by students according to their convenience.
+        </br>
+    </string>
+    <string name="Question3">Q.3 What is the duration of training?</string>
+
+    <string name="Answer3">A.3 The training duration is of 6 weeks.</string>
+
+    <string name="Question4">Q.4 How much time should I spend everyday</string>
+
+    <string name="Answer4">
+        <br>
+            A.4 We recommend spending 10-12 hours per week.
+        </br>
+        <br>
+            However, the actual learning hours can be decided by
+        </br>
+        <br>
+            you as per your convenience
+        </br>
+    </string>
+
+    <string name="Question5">Q.5 When can I start my training</string>
+
+    <string name="Answer5">
+        <br>
+       A.5 You can choose your preferred batch date while signing up for the training program
+        </br>
+    </string>
+
+
+</resources>

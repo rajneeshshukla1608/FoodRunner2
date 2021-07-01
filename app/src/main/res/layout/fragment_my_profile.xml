@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FF4A3C"
+    tools:context=".fragment.MyProfile">
+
+
+    <ImageView
+        android:id="@+id/txtprofileimg"
+        android:layout_width="150dp"
+        android:layout_height="150dp"
+        android:src="@drawable/heador_img2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"
+        />
+    <TextView
+        android:id="@+id/txtName"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/txtprofileimg"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="Name"
+        android:padding="10dp"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:background="#ffffff"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/txtNumber"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/txtName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="+91-1234567890"
+        android:textColor="#000000"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:background="#ffffff"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/txtEmail"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/txtNumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:padding="10dp"
+        android:text="Email Address"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:background="#ffffff"
+        android:gravity="center_horizontal" />
+    <TextView
+        android:id="@+id/txtAddress"
+        android:layout_width="390dp"
+        android:layout_height="50dp"
+        android:layout_below="@+id/txtEmail"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15dp"
+        android:text="Delivery Address"
+        android:textColor="#000000"
+        android:textAlignment="center"
+        android:textSize="20sp"
+        android:background="#ffffff"
+        android:gravity="center_horizontal" />
+</RelativeLayout>
